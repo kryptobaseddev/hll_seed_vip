@@ -7,7 +7,7 @@ dry_run: false
 # The URL of your CRCON
 # ex: http://example.com or https://example.com
 # ex: http://127.0.0.1:8010/
-base_url: ""
+base_url: "https://pump.hoskins.myds.me"
 discord:
   # A list of discord webhooks if you want to use Discord integrations
   # Set to a blank list to disable
