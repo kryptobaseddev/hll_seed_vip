@@ -59,8 +59,8 @@ requirements:
   # The min/max players per team the server needs to have to count as 'seeding'
   min_allies: 0
   min_axis: 0
-  max_allies: 20
-  max_axis: 20
+  max_allies: 25
+  max_axis: 25
   # Whether the player needs to be online when the seed finishes to be rewarded
   online_when_seeded: true
   # The minimum amount of time a player needs to join before the seed finishes to be rewarded (it is the sum of all the categories)
